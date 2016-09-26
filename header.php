@@ -40,8 +40,8 @@
         </div>
         <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1" >
           <ul class="nav navbar-nav">
-			<li><a href="http://www.thesoftwareguy.in/php-tutorial/">PHP Tutorials</a></li>
-			<li><a href="http://www.thesoftwareguy.in/working-demos/">More Demos</a></li>
+			<li><a href="http://www.thesoftwareguy.in/php-tutorial/">PHP TutorialS-</a></li>
+			<li><a href="http://www.thesoftwareguy.in/working-demos/">More DemoS-</a></li>
             <li><a href="http://www.thesoftwareguy.in/mini-project/">More Projects</a></li>
           </ul>
         </div>
