@@ -40,8 +40,8 @@
         </div>
         <div class="collapse navbar-collapse pull-right" id="bs-example-navbar-collapse-1" >
           <ul class="nav navbar-nav">
-			<li><a href="http://www.reancloud.com/company/">About REAN</a></li>
-			<li><a href="http://www.reancloud.com/cloud-offerings/">REAN Offerings</a></li>
+			<li><a href="http://www.reancloud.com/">REAN Cloud</a></li>
+			<li><a href="http://www.reancloud.com/company/partners/">Partners</a></li>
             <li><a href="http://www.thesoftwareguy.in/mini-project/">More Projects</a></li>
           </ul>
         </div>
